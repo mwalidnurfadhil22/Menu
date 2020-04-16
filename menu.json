@@ -3,50 +3,50 @@
         {
             "nama": "Tuna Melt",
             "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
-            "harga": 49500,
-            "gambar": "tuna-melt.jpg"
+            "harga": "49.500",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/tuna-melt.jpg"
         },
         {
             "nama": "American Favourite",
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
-            "harga": 49500,
-            "gambar": "american-favourite.jpg"
+            "harga": "49.500",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/american-favourite.jpg"
         },
         {
             "nama": "Beef Lasagna",
             "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
-            "harga": 48000,
-            "gambar": "beef-lasagna.jpg"
+            "harga": "48.000",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/beef-lasagna.jpg"
         },
         {
             "nama": "Creamy Beef Fettuccine",
             "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
-            "harga": 43000,
-            "gambar": "creamy-beef-fettuccine.jpg"
+            "harga": "43.000",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/creamy-beef-fettuccine.jpg"
         },
         {
             "nama": "Meatballs Beef Mushroom",
             "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
-            "harga": 40000,
-            "gambar": "meatballs-beef-mushroom.jpg"
+            "harga": "40.000",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/meatballs-beef-mushroom.jpg"
         },
         {
             "nama": "Oriental Chicken",
             "deskripsi": "Daging ayam berpadu dengan saus oriental.",
-            "harga": 40000,
-            "gambar": "oriental-chicken.jpg"
+            "harga": "40.000",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/oriental-chicken.jpg"
         },
         {
             "nama": "Choco Mint",
             "deskripsi": "",
-            "harga": 24000,
-            "gambar": "choco-mint.jpg"
+            "harga": "24.000",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/choco-mint.jpg"
         },
         {
             "nama": "Toffee Coffee",
             "deskripsi": "",
-            "harga": 24000,
-            "gambar": "toffee-coffee.jpg"
+            "harga": "24.000",
+            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/toffee-coffee.jpg"
         }
     ]
 }
