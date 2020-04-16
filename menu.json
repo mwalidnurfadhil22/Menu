@@ -4,49 +4,49 @@
             "nama": "Tuna Melt",
             "deskripsi": "Irisan daging ikan tuna, butiran jagung, saus mayonnaise.",
             "harga": "49.500",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/tuna-melt.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/tuna-melt.jpg"
         },
         {
             "nama": "American Favourite",
             "deskripsi": "Pepperoni sapi, daging sapi cincang, jamur.",
             "harga": "49.500",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/american-favourite.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/american-favourite.jpg"
         },
         {
             "nama": "Beef Lasagna",
             "deskripsi": "Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.",
             "harga": "48.000",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/beef-lasagna.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/beef-lasagna.jpg"
         },
         {
             "nama": "Creamy Beef Fettuccine",
             "deskripsi": "Daging sapi asap dan jamur, ditumis dengan saus krim lembut.",
             "harga": "43.000",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/creamy-beef-fettuccine.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/creamy-beef-fettuccine.jpg"
         },
         {
             "nama": "Meatballs Beef Mushroom",
             "deskripsi": "Bola daging sapi dengan saus daging sapi cincang dan jamur.",
             "harga": "40.000",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/meatballs-beef-mushroom.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/meatballs-beef-mushroom.jpg"
         },
         {
             "nama": "Oriental Chicken",
             "deskripsi": "Daging ayam berpadu dengan saus oriental.",
             "harga": "40.000",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/oriental-chicken.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/oriental-chicken.jpg"
         },
         {
             "nama": "Choco Mint",
             "deskripsi": "",
             "harga": "24.000",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/choco-mint.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/choco-mint.jpg"
         },
         {
             "nama": "Toffee Coffee",
             "deskripsi": "",
             "harga": "24.000",
-            "gambar": "https://github.com/mwalidnurfadhil22/Menu/blob/master/menu/toffee-coffee.jpg"
+            "gambar": "https://raw.githubusercontent.com/mwalidnurfadhil22/Menu/master/menu/toffee-coffee.jpg"
         }
     ]
 }
